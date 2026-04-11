@@ -2,11 +2,17 @@ title: "TUG-PT"
 subtitle: "Grupo de Utilizadores TeX Portugal"
 description: "A comunidade portuguesa de utilizadores de TeX, LaTeX e ferramentas associadas."
 url: "https://www.tug.pt"
-baseurl: ""
+baseurl: "/tug-pt-site"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Theme Settings
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # We can customize this later
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "default"
 
 # Site Author
 author:
@@ -21,7 +27,7 @@ author:
 # Build Settings
 paginate: 5
 paginate_path: /page:num/
-include: [".htaccess"]
+include: [".htaccess", "_includes"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
