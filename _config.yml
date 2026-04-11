@@ -1,0 +1,71 @@
+title: "TUG-PT"
+subtitle: "Grupo de Utilizadores TeX Portugal"
+description: "A comunidade portuguesa de utilizadores de TeX, LaTeX e ferramentas associadas."
+url: "https://www.tug.pt"
+baseurl: ""
+
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # We can customize this later
+
+# Site Author
+author:
+  name: "TUG-PT"
+  bio: "Grupo de Utilizadores TeX Portugal"
+  location: "Portugal"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.tug.pt"
+
+# Build Settings
+paginate: 5
+paginate_path: /page:num/
+include: [".htaccess"]
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Front Matter Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+# Navigation
+nav:
+  - title: Início
+    url: /
+  - title: Sobre
+    url: /sobre/
+  - title: Notícias & Eventos
+    url: /noticias-eventos/
+  - title: Publicações
+    url: /publicacoes/
+  - title: Aprender TeX
+    url: /aprender-tex/
+  - title: Comunidade
+    url: /comunidade/
+  - title: Modelos
+    url: /modelos/
+  - title: Aderir / Contactos
+    url: /aderir-contactos/

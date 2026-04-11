@@ -1,0 +1,17 @@
+main:
+  - title: "Início"
+    url: /
+  - title: "Sobre"
+    url: /sobre/
+  - title: "Notícias & Eventos"
+    url: /noticias-eventos/
+  - title: "Publicações"
+    url: /publicacoes/
+  - title: "Aprender TeX"
+    url: /aprender-tex/
+  - title: "Comunidade"
+    url: /comunidade/
+  - title: "Modelos"
+    url: /modelos/
+  - title: "Aderir / Contactos"
+    url: /aderir-contactos/
