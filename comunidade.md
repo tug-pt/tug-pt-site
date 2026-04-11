@@ -15,8 +15,8 @@ Parcerias com TUG Internacional e outros LUGs.
 
 ## Código de Conduta
 
-Consulte o nosso código de conduta para garantir um ambiente saudável para todos.
+Carrega o documento no Drive e incorpora aqui.
 
 ## Voluntariado
 
-Quer ajudar? Preencha o nosso formulário para voluntariado.
+Formulário para voluntariado (Google Forms) — colocar link/incorporação.
