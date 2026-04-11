@@ -11,7 +11,7 @@ Formulário de adesão (Google Forms). Instruções de quota, se aplicável.
 
 ## Contactos
 
-**Email:** contacto@tug-pt.pt
+**Email:** geral@tug.pt
 
 **Redes:** (adicionar links)
 
