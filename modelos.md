@@ -25,13 +25,6 @@ Escrever o teu trabalho académico não tem de ser uma luta contra a formataçã
 
 Temos vindo a compilar uma lista de templates que seguem as normas gráficas das principais instituições de ensino superior em Portugal.
 
-### NOVAthesis (Recomendado)
-
-O **NOVAthesis** é um projeto altamente modular que suporta oficialmente várias universidades e faculdades portuguesas num único sistema. É a opção mais robusta e atualizada para quem procura um modelo profissional.
-
-*   **Universidades Suportadas:** NOVA (FCT, FCSH, IMS, ITQB, ENSP, IHMT), ULisboa (IST, FCUL, ISEG, FMV, FA), UMinho, UPorto (FCUP), Institutos Politécnicos (ISEL, ESTS, ESEP) e Universidade Lusófona.
-*   **Onde encontrar:** [Repositório GitHub (joaomlourenco/novathesis)](https://github.com/joaomlourenco/novathesis)
-*   **Como usar:** Podes descarregar o ZIP do GitHub e fazer upload para o Overleaf, ou procurar pela versão na galeria do Overleaf (v7.10.0).
 
 ---
 
