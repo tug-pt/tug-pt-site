@@ -40,24 +40,30 @@ O **NOVAthesis** é um projeto altamente modular que suporta oficialmente vária
 | Universidade / Politécnico | Escola / Tipo | Link / Fonte | Notas |
 | :--- | :--- | :--- | :--- |
 | **NOVA - FCT** | Ciências e Tecnol. | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Standard oficial para FCT-UNL. |
-| **NOVA - FCSH** | Ciências Sociais | [Ricardo Monteiro](https://github.com/r-monteiro/novathesis-fcsh) | Baseado no NOVAthesis. |
+| **NOVA - ENSP** | Escola Nacional de Saúde Pública | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={ulisboa/ensp}. |
+| **NOVA - ITQB** | Instit. Tecn. Quím. Biol. | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={ulisboa/itqb}. |
+| **NOVA - FCSH** | Ciências Sociais | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={ulisboa/fcsh}. |
 | **NOVA - IMS** | Gestão de Inform. | [paulodecampos/novathesis-ims](https://github.com/paulodecampos/novathesis-ims) | Adaptação do NOVAthesis. |
 | **ULisboa - IST** | Técnico (MSc/PhD) | [Técnico (Samuel Coelho)](https://www.overleaf.com/latex/templates/tecnico-lisboa-dissertation-template/mwnvsqvpxvqc) | Template oficial recomendado no Overleaf. |
 | **ULisboa - IST** | Técnico (MSc) | [IST-UL (Rui S. Cruz)](https://www.overleaf.com/latex/templates/ist-ul-msc-dissertation/vjmcpxmshmny) | Versão 5.0 (2025). |
-| **ULisboa - FCUL** | Ciências | [dpavot/templates_latex_fcul](https://github.com/dpavot/templates_latex_fcul) | Várias variantes disponíveis. |
-| **ULisboa - ISEG/FMV/FA** | Várias | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via `school={ulisboa/...}`. |
+| **ULisboa - IST** | Técnico (MSc/PhD) | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={ulisboa/ist}. |
+| **ULisboa - FCUL** | Fac. Ciências | [dpavot/templates_latex_fcul](https://github.com/dpavot/templates_latex_fcul) | Várias variantes disponíveis. |
+| **ULisboa - IST** | Técnico Fac. Ciências | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={ulisboa/fcul}. |
+| **ULisboa - ISEG** | Int. Sup. Econ. Gestão | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={ulisboa/iseg}. |
+| **ULisboa - FMV** | Fac. Med. Veterin. | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={ulisboa/fmv}. |
 | **U.Porto - FEUP** | Engenharia | [FEUP (Official)](https://www.overleaf.com/latex/templates/feup-dissertation-format/vjmcpxmshmny) | Mantido por João Correia Lopes. |
 | **U.Porto - FCUP** | Ciências | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via `school={uporto/fcup}`. |
 | **U.Coimbra - FCTUC** | Ciências e Tecnol. | [samfcmc/latex-dissertation](https://github.com/samfcmc/latex-dissertation-template) | Cumpre a identidade visual da UC. |
 | **U.Minho** | Engenharia/Geral | [citoplasme/UMinho](https://github.com/citoplasme/UMinho_Dissertation) | Requer fontes específicas para uso local. |
-| **U.Aveiro** | Geral | [detiuaveiro/ua-thesis](https://github.com/detiuaveiro/ua-thesis-template) | Também suportado via NOVAthesis. |
+| **U. Minho** | Todas | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via school={uminho/…}. |
+| **U.Aveiro** | Geral | [detiuaveiro/ua-thesis](https://github.com/detiuaveiro/ua-thesis-template) |  |
 | **U.Algarve (UAlg)** | Geral | [jorgebaptista/ualg](https://github.com/jorgebaptista/ualg-thesis-template) | [Overleaf Template](https://www.overleaf.com/latex/templates/modelo-latex-para-tese-slash-dissertacao-de-mestrado-da-universidade-do-algarve-ualg/vjmcpxmshmny). |
 | **U.Beira Interior** | Geral | [manoelcampos/ubi](https://github.com/manoelcampos/template-ubi-latex) | Template não oficial. |
-| **ISCTE-IUL** | Geral | [Portal Oficial](https://github.com/joaomlourenco/novathesis) | Recomendado usar NOVAthesis. |
-| **IPLisboa - ISEL** | Engenharia | [isel-novathesis](https://www.overleaf.com/latex/templates/ipl-isel-novathesis-v7-dot-10-dot-0/vjmcpxmshmny) | Baseado no NOVAthesis. |
+| **ISCTE-IUL** | Esc. Tecn. Arq. | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via `school={iscteiul/eta}`. |
+| **IPLisboa - ISEL** | Geral | [isel-novathesis](https://www.overleaf.com/latex/templates/ipl-isel-novathesis-v7-dot-10-dot-0/vjmcpxmshmny) | Baseado no NOVAthesis. |
 | **IPBeja** | Geral | [IPBeja Template](https://www.overleaf.com/latex/templates/template-ipbeja/vjmcpxmshmny) | Disponível no Overleaf. |
 | **IPBragança** | ESTiG | [ESTiG-IPB Template](https://www.overleaf.com/latex/templates/template-apresentacao-ipb-estig/vjmcpxmshmny) | Inclui apresentações. |
-| **U. Lusófona** | DEISI / MGE | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suporte oficial via NOVAthesis. |
+| **U. Lusófona** | DEISI / MGE | [joaomlourenco/novathesis](https://github.com/joaomlourenco/novathesis) | Suportado via `school={ulht/…}`. |
 
 ---
 
