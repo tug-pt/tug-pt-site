@@ -7,22 +7,6 @@ author_profile: false
 
 ## Novidades e Atividades
 
-Utiliza no Google Sites uma página do tipo **Anúncios** para gerir notícias. Aqui deixamos um exemplo de listagem estática.
-
-### Notícias {#noticias}
-
-- **08 setembro 2025** — Lançamento do site TUG‑PT.
-- **15 setembro 2025** — Chamada para propostas de talks.
-
-### Eventos {#eventos}
-
-Incorpora um Google Calendar (vista Agenda). Como placeholder:
-
-- **Workshop de LaTeX para Iniciantes** — Online (Zoom)
-- **Encontro TUG‑PT #1** — Lisboa/Online
-
-> No Google Sites, usa *Inserir → Calendário* para sincronizar automaticamente a agenda.
-
 Fica a par de tudo o que está a acontecer na comunidade TUG‑PT! Aqui podes encontrar os nossos próximos encontros, workshops e novidades do mundo LaTeX.
 
 ## Agenda de Eventos
