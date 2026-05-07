@@ -1,9 +1,27 @@
 ---
-title: "Adesão"
+title: "Adesão / Contactos"
 permalink: /adesao/
 layout: single
-author_profile: true
+author_profile: false
 ---
+
+## Aderir
+
+Formulário de adesão (Google Forms). Instruções de quota, se aplicável.
+
+## Contactos
+
+| Campo | Informação |
+|-------|-----------|
+| **Email** | contacto@tug-pt.pt |
+| **Redes** | (adicionar links) |
+| **Morada** | (se existir) |
+
+> No Google Sites, insere aqui um Mapa Google com a localização.
+
+## Media Kit
+
+Logos em PNG/SVG na pasta "assets/". Podes reutilizar o `logo.svg` e criar variantes.
 
 A comunidade TUG-PT é aberta a todos! Quer sejas estudante, professor ou profissional, a tua participação é fundamental para o crescimento do TeX e LaTeX em Portugal.
 

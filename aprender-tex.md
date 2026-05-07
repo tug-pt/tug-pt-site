@@ -2,8 +2,27 @@
 title: "Aprender TeX"
 permalink: /aprender-tex/
 layout: single
-author_profile: true
+author_profile: false
 ---
+
+## Começar
+
+1. Instalar **TeX Live**.
+2. Escolher um editor: TeXworks, TeXstudio, Overleaf, VS Code (LaTeX Workshop).
+3. Compilar o primeiro documento.
+
+## Guias Rápidos
+
+- **Bibliografia** — bibtex/biblatex, biber, estilos comuns.
+- **Figuras** — Pacote `graphicx`, formatos, posicionamento.
+- **Tabelas** — `tabular`, `booktabs`, largura e alinhamentos.
+- **Matemática** — `amsmath`, ambientes e numeração.
+- **Beamer** — Estrutura de apresentações e temas.
+- **Documentos Multilingues** — `babel`/`polyglossia`, fontes, hifenização.
+
+## FAQ
+
+(Adicionar perguntas frequentes no Google Sites com blocos expansíveis.)
 
 Dar os primeiros passos no LaTeX pode parecer desafiante, mas estamos aqui para te ajudar a superar essa curva inicial. O LaTeX é uma ferramenta poderosa que te devolve o controlo sobre o teu documento.
 

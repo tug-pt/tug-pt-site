@@ -2,8 +2,24 @@
 title: "Comunidade"
 permalink: /comunidade/
 layout: single
-author_profile: true
+author_profile: false
 ---
+
+## Como Participar
+
+Subscreve a lista de e‑mail e junta‑te aos canais de discussão.
+
+## Colaborações
+
+Parcerias com TUG Internacional e outros LUGs.
+
+## Código de Conduta
+
+Carrega o documento no Drive e incorpora aqui.
+
+## Voluntariado
+
+Formulário para voluntariado (Google Forms) — colocar link/incorporação.
 
 Fazer parte do TUG-PT é pertencer a uma rede de ajuda mútua. Não és apenas um utilizador; és parte de um grupo que constrói e partilha o seu conhecimento técnico e académico.
 
